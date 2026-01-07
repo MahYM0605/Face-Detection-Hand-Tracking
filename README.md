@@ -15,10 +15,11 @@ This project performs real-time face detection and hand tracking using a webcam 
 
 ## How to Run
 1. Install dependencies:
-pip install opencv-python mediapipe (can skip this if you had installed)
+pip install opencv-python mediapipe (can skip this if you had already installed)
 
 2. Run the program:
 python main.py
 
 3. Press Q to quit
+
 
